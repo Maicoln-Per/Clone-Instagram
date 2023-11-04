@@ -1,8 +1,25 @@
-# React + Vite
+# Instagrão: o Espelho de Ojesed
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Esse projeto foi proposto nas aulas do Instituto PROA pelo meu professor Gabriel Augusto Azevedo com o intuito de aprender ReactJs e suas funcionalidades.</p>
+<p>Além disso, aprofundei meu conhecimento na criação e implementação de componentes, o que ampliou ainda mais minha compreensão dessa ferramenta.</p>
 
-Currently, two official plugins are available:
+<img src="src/assets/imagens/foto-home.png">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3>Antes de poder utilizar o projeto certifique-se de ter as seguintes ferramentas instaladas em sua máquina:</h3>
+
+Node.js: https://nodejs.org/
+
+Vite: https://vitejs.dev/
+
+<h3>Para utilizar o projeto, siga os passos:</h3>
+
+<p>1 ° Baixe a pasta zipada no github.</p>
+<p>2 ° Descompacte o projeto na sua máquina.</p>
+<p>3 ° Faça uso dos comandos para baixar a pasta node modules.</p>
+<p>4 ° npm install</p>
+<p>5 ° npm install react-icons</p>
+<p>6 ° npm run dev</p>
+
+
+
+
